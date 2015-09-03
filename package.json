@@ -10,7 +10,7 @@
   "main": "dist/parseTime.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SimonWaldherr/parseTime.js.git"
+    "url": "git+https://github.com/curioussavage/parseTime.js.git"
   },
   "bugs": {
     "url": "https://github.com/SimonWaldherr/parseTime.js/issues"

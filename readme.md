@@ -1,4 +1,3 @@
-#Time Parser
 
 This package is a fork of [parsetime](https://www.npmjs.com/package/parsetime)
 whose author has apparently forgotten about it.
