@@ -781,3 +781,5 @@ parseTimeObject.words.pt = {
     '\\.' : ''
   }
 };
+
+module.exports = parseTime;

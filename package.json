@@ -1,14 +1,13 @@
 {
-  "name": "parsetime",
-  "title": "parseTime.js",
+  "name": "time-parser",
+  "title": "time-parser",
   "description": "convert strings like 'five days ago' (in english, german, french or portuguese) to an integer (with time in seconds)",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "homepage": "https://github.com/SimonWaldherr/parseTime.js",
   "author": {
-    "name": "Simon Waldherr",
-    "email": "contact@simonwaldherr.de",
-    "url": "http://simon.waldherr.eu/"
+    "name": "curioussavage"
   },
+  "main": "dist/parseTime.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/SimonWaldherr/parseTime.js.git"
@@ -18,8 +17,7 @@
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "http://simon.waldherr.eu/license/mit/"
+      "type": "MIT"
     }
   ],
   "dependencies": {},
