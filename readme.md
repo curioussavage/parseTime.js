@@ -1,6 +1,6 @@
 #Time Parser
 
-This package is a fork of https://www.npmjs.com/package/parsetime
+This package is a fork of [parsetime](https://www.npmjs.com/package/parsetime)
 whose author has apparently forgotten about it.
 
 The package did not have a main field in the package.json was just a global script :(
@@ -14,7 +14,7 @@ npm install time-parser --save
 
 ## Usage
 
-```
+```javascript
 var timeParser = require('time-parser');
 
 timeParser('2 hours ago')
